@@ -1,0 +1,47 @@
+{
+    "products":[
+        {
+            "id":"1",
+            "title" : "Spring Robot",
+            "details" :"Super mario robot",
+            "price" :"300",
+            "imageUrl" :"../assets/images/2.jpg"
+        },
+        {
+            "id":"2",
+            "title" : "Spring Robot",
+            "details" :"Super mario robot",
+            "price" :"300",
+            "imageName" :"1"
+        },
+        {
+            "id":"3",
+            "title" : "Spring Robot",
+            "details" :"Super mario robot",
+            "price" :"300",
+            "imageName" :"1"
+        },
+        {
+            "id":"4",
+            "title" : "Spring Robot",
+            "details" :"Super mario robot",
+            "price" :"300",
+            "imageName" :"1"
+        },
+        {
+            "id":"5",
+            "title" : "Spring Robot",
+            "details" :"Super mario robot",
+            "price" :"300",
+            "imageName" :"1"
+        },
+        {
+            "id":"6",
+            "title" : "Spring Robot",
+            "details" :"Super mario robot",
+            "price" :"300",
+            "imageName" :"1"
+        }
+
+    ]
+}
